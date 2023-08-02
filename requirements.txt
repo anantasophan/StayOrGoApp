@@ -1,0 +1,5 @@
+streamlit 
+pandas == 1.5.3
+scikit-learn==1.2.1
+feature_engine == 1.4.0
+tensorflow == 2.12.0
